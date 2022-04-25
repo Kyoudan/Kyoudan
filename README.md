@@ -2,7 +2,7 @@
 
 - 🔭 Estudando :DD
 - 🌱 14y
-- 😄 Pronouns: Ele/Dele
+- 😄 Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Kyoudan">
