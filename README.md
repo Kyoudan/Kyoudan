@@ -1,6 +1,6 @@
 ### Olá <3 👋
 
-- 🔭 Estudando :DD
+- 🔭 Odeio progamar <3
 - 🌱 14y
 - 😄 Ele/Dele
 
