@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyoudano&color=red" alt="Profile views" /> </p>
   
   <a href="https://github.com/Kyoudan">
-  <img height="180em" align="center"
+  <img height="170em" align="center"
        src="https://github-readme-stats.vercel.app/api?username=Kyoudan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
   <hr />
   
-  <img height="180em" align="center"
+  <img height="170em" align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoudan&layout=compact&langs_count=7&theme=dark"/>
   
  </div>
