@@ -53,4 +53,3 @@
  
  ![Snake animation](https://github.com/Kyoudan/Kyoudan/blob/output/github-contribution-grid-snake.svg)
  
-
